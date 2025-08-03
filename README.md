@@ -1,6 +1,6 @@
-=== ExportMate ===
+=== WooExport ===
 Contributors: devshubho
-Tags: woocommerce, export, csv, customer, email, admin, report
+Tags: woocommerce, export, csv, customer, email
 Requires at least: 5.5
 Tested up to: 6.8
 Requires PHP: 7.2
@@ -12,7 +12,7 @@ Export WooCommerce customer data for specific products into CSVs. Download, emai
 
 == Description ==
 
-**ExportMate** lets you export product-specific WooCommerce customer data into CSV files. Select fields, enter product ID, and choose whether to download the CSV, email it to the site admin, or a custom email.
+**WooExport** lets you export product-specific WooCommerce customer data into CSV files. Select fields, enter product ID, and choose whether to download the CSV, email it to the site admin, or a custom email.
 
 == Features ==
 
@@ -28,38 +28,17 @@ Export WooCommerce customer data for specific products into CSVs. Download, emai
 
 == Installation ==
 
-1. Upload the plugin folder to `/wp-content/plugins/` or install via WordPress admin dashboard.
-2. Activate the plugin through the 'Plugins' menu.
-3. Go to **WP-ExportMate** in the WordPress admin sidebar.
-4. Select fields, enter product ID, choose how to export (download/email), and hit Export.
-
-== Screenshots ==
-
-1. Admin export panel
-2. Field selection and product ID input
-3. Destination options: download or email
+1. Upload to `/wp-content/plugins/wooexport/`
+2. Activate via WordPress admin
+3. Use the **WooExport** panel from the dashboard
 
 == Changelog ==
 
 = 1.1 =
-* NEW: Choose to download CSV, email to admin, or email to custom address
-* CSV file is attached in email
-* Field added for entering custom email address
+* NEW: Choose to download, email to admin, or email to custom address
+* Email with CSV attached
+* Toggle for custom email field
 
 = 1.0 =
-* Initial release: download CSV of customers by product ID with field selection
+* Basic CSV download by product ID
 
-== Frequently Asked Questions ==
-
-= Does it support custom order statuses? =
-Currently only exports `completed` orders.
-
-= Where can I find the product ID? =
-In your WooCommerce Products list, hover over the product title. The ID will be shown below the product name.
-
-= Can I export to Excel? =
-Yes! The downloaded CSV is Excel-compatible.
-
-== License ==
-
-This plugin is licensed under the GPLv2 or later. You may modify and redistribute it freely.
