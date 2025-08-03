@@ -78,7 +78,6 @@ Feel free to fork this repo, create issues, or submit pull requests.
 ## 🔖 Credits
 
 Developed by **Dev.Shubho**  
-Twitter: [@devshubho](https://twitter.com/devshubho)  
 GitHub: [github.com/devshubho](https://github.com/devshubho)
 
 ---
