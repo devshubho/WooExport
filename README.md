@@ -1,30 +1,21 @@
 # WooExport
 
-WooExport is a lightweight WordPress plugin built for WooCommerce store owners to export product-wise customer data in CSV format. You can download the CSV directly or send it via email to the admin or a custom address.
-
-> ⚠️ Note: The name “WooExport” is used here for branding. For WordPress.org submission, rename to something like `ExportMate` to comply with trademark rules.
+WooExport is a lightweight WordPress plugin built for WooCommerce store owners to export product-wise customer data in CSV format. You can download the CSV directly or send it via email to the admin or a custom address
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎯 Export customers by specific **WooCommerce Product ID**
-- ✅ Select fields to include: Product Name, Customer Name, Email, Phone, Order Date
-- 📤 Choose export method:
+-  Export customers by specific **WooCommerce Product ID**
+- Select fields to include: Product Name, Customer Name, Email, Phone, Order Date
+- Choose export method:
   - Download to current device
   - Email to site admin
   - Email to a custom email address
-- 📎 CSV is attached to emails
-- 🔐 Works only for logged-in admins
-- 💡 Clean, minimal UI in WordPress Admin
-- 👤 Built with ❤️ by [Dev.Shubho](https://github.com/devshubho)
-
----
-
-## 📸 Screenshots
-
-![Admin Panel](screenshot-1.png)
-> Field selection and export destination in the WordPress dashboard.
+- CSV is attached to emails
+- Works only for logged-in admins
+- Clean, minimal UI in WordPress Admin
+- Built with ❤️ by [Dev.Shubho](https://github.com/devshubho)
 
 ---
 
@@ -60,12 +51,6 @@ WooExport is a lightweight WordPress plugin built for WooCommerce store owners t
 - WordPress 5.5+
 - WooCommerce 4.0+
 - PHP 7.2+
-
----
-
-## 📝 License
-
-This plugin is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
 
 ---
 
