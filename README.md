@@ -19,7 +19,7 @@ WooExport is a lightweight WordPress plugin built for WooCommerce store owners t
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clone/download this repo.
 2. Copy the `wooexport` folder to your `wp-content/plugins/` directory.
@@ -29,7 +29,7 @@ WooExport is a lightweight WordPress plugin built for WooCommerce store owners t
 
 ---
 
-## 🧩 Usage
+## Usage
 
 - Enter the **Product ID** you want to export customer data for.
 - Select which fields you want included.
@@ -38,7 +38,7 @@ WooExport is a lightweight WordPress plugin built for WooCommerce store owners t
 
 ---
 
-## 📬 Email Feature
+## Email Feature
 
 - If **Email to Admin** is selected, the admin address from WordPress settings will be used.
 - If **Custom Email** is selected, a valid email address is required.
@@ -46,7 +46,7 @@ WooExport is a lightweight WordPress plugin built for WooCommerce store owners t
 
 ---
 
-## ✅ Compatibility
+## Compatibility
 
 - WordPress 5.5+
 - WooCommerce 4.0+
@@ -54,13 +54,13 @@ WooExport is a lightweight WordPress plugin built for WooCommerce store owners t
 
 ---
 
-## 📦 Contribute
+## Contribute
 
 Feel free to fork this repo, create issues, or submit pull requests.
 
 ---
 
-## 🔖 Credits
+## Credits
 
 Developed by **Dev.Shubho**  
 GitHub: [github.com/devshubho](https://github.com/devshubho)
